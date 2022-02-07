@@ -1,4 +1,4 @@
-![](Manoj.jpeg)
+  ![Manoj](Manoj.jpeg)
 #  MANOJ BOYAPATI
  * Contact Information:
  * Phone: 443-454-0795
