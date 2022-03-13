@@ -19,4 +19,5 @@
 #### This graph indicates the corelation between the production of electricity from gas,coal and hydropower and the access of total population.
 
 ![](usage.png)
-#### This corelation matrix heatmap indicates the relation of total electricity produced from all resources, total 
+#### This corelation matrix heatmap indicates the relation of total electricity produced from all resources, total population and access of electricity in all regions.
+
