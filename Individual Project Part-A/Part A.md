@@ -7,4 +7,4 @@
 #### Analyzing Countries - United States of America, India, China
 
 # Outlook
-![](nweplot.png)
+![](newplot_1.png)
