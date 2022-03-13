@@ -7,3 +7,4 @@
 #### Analyzing Countries - United States of America, India, China
 
 # Outlook
+![](nweplot.png)
