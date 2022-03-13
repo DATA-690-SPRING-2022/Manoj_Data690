@@ -4,7 +4,13 @@
 #### The International Energy Agency's (IEA) definition encompasses more than just household delivery. It also requires households to meet a minimum level of electricity, which varies depending on whether the household is rural or urban and rises over time. This minimum threshold is 250 kilowatt-hours (kWh) per year for rural households and 500 kWh per year for urban households.
 #### Method of approach - Analysis of data by graphs and approach 
 #### Data Source - World Development Explorer
+#### Topic:
+#### Energy And Mining
+#### Indicators:
+#### Access to electricity rural
+#### Access to electricity 
 #### Analyzing Countries - United States of America, India, China
+
 
 # Outlook
 ![](newplot.png)
