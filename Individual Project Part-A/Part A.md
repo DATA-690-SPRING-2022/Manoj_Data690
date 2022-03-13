@@ -8,4 +8,11 @@
 
 # Outlook
 ![](newplot.png)
-#### In this graph we can observe that the access of electricity for the three countries and out of three countries India has low access of electricity in rural areas.
+#### In this bar graph we can observe that the access of electricity for the three countries and out of three countries India has low access of electricity in rural areas.
+![](Urban.png)
+#### In this pie chart the access of electricity for urban regions of three countries and the trend is similar here.
+
+![](coal.png)
+#### This graph indicates the production of electricity from coal and out of three countries United States of America produces less over the time compared with India and China.
+
+![](totalproduction.png)
