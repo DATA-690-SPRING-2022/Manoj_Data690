@@ -4,7 +4,25 @@
 #### The International Energy Agency's (IEA) definition encompasses more than just household delivery. It also requires households to meet a minimum level of electricity, which varies depending on whether the household is rural or urban and rises over time. This minimum threshold is 250 kilowatt-hours (kWh) per year for rural households and 500 kWh per year for urban households.
 #### Method of approach - Analysis of data by graphs and approach 
 #### Data Source - World Development Explorer
-#### Topic:
+
+#### Topic :
+#### Energy And Mining
+#### Indicators :
+*  Access to electricity rural
+
+*  Access to electricity urban
+
+*  Access  to electricity total
+
+*  Electricity production from coal, gas and oil sources
+
+*  Electricity production from Hydroelectric sources
+
+*  Renewable electricity output
+
+#### Analyzing Countries - United States of America, India, China
+
+#### Time Plot: 2010 - 2018
 #### Energy And Mining
 #### Indicators:
 #### Access to electricity rural
@@ -27,3 +45,5 @@
 ![](usage.png)
 #### This corelation matrix heatmap indicates the relation of total electricity produced from all resources, total population and access of electricity in all regions.
 
+# Conclusion:
+#### After analysing the graphs I observed there are many factors that are causing this problem. One of the factors from it us huge population, it costs more money to provide access electricity in all regions, As per the heat map the total electricity produces by coal, oil, gas, hydroelectric sources amd renewable electricity and total access of population is low in India as compared with U.S.A and china. The availability and affordability of electricity and clean cooking fuels are inversely proportional to income. Low income is strongly linked to poor energy access.Globally, access to electricity has increased, with the majority of this growth coming from low-to-middle-income countries. Access to electricity, on the other hand, is not equally distributed between rural and urban populations.
