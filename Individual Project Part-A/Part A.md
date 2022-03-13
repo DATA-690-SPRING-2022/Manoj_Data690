@@ -8,3 +8,4 @@
 
 # Outlook
 ![](newplot.png)
+#### In this graph we can observe that the access of electricity for the three countries and out of three countries India has low access of electricity in rural areas.
