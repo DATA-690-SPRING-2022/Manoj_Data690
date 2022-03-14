@@ -50,5 +50,8 @@
 
 ![](energyuse.png)
 #### This pie chart indicates that United states of America uses more oil resources to produce electricty than India and China.
+
+![](loss.png)
+#### This bar graph shows the loss of distribution of electricity. This graph explains why India Although producing large amounts of electricity but still lacking in providing electricity to rural areas. The distribution loss of India is more than China and United states of America.
 # Conclusion:
 #### After analysing the graphs I observed there are many factors that are causing this problem. One of the factors from it us huge population, it costs more money to provide access electricity in all regions, As per the heat map the total electricity produces by coal, oil, gas, hydroelectric sources amd renewable electricity and total access of population is low in India as compared with U.S.A and china. The availability and affordability of electricity and clean cooking fuels are inversely proportional to income. Low income is strongly linked to poor energy access.Globally, access to electricity has increased, with the majority of this growth coming from low-to-middle-income countries. Access to electricity, on the other hand, is not equally distributed between rural and urban populations.
