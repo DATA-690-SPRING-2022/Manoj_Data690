@@ -39,8 +39,7 @@
 ![](coal.png)
 #### This graph indicates the production of electricity from coal and out of three countries United States of America produces less over the time compared with India and China.
 
-![](Access.png)
-#### This graph indicates the corelation between the production of electricity from gas,coal and hydropower and the access of total population.
+
 
 ![](usage.png)
 #### This corelation matrix heatmap indicates the relation of total electricity produced from all resources, total population and access of electricity in all regions.
